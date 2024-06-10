@@ -15,4 +15,3 @@ Dette er en enkel nettstedtemplate basert på Flask. Her finner du informasjon o
 * For å endre font formatet, rediger `style.css` og endre `font-family` for `.hero h1`-klassen.
 * For å endre hvor knappen sender deg, rediger `main.html` og endre `href`-attributten for `<a>`-elementet.
 
-Jeg håper dette hjelper!
