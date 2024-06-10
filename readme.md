@@ -4,9 +4,9 @@ Dette er en enkel nettstedtemplate basert på Flask. Her finner du informasjon o
 
 ## Filer
 
-* `app.py`: Hovedfilen for nettstedet
-* `templates/main.html`: Malen for nettstedets hovedside
-* `static/style.css`: Stilarkfilen for nettstedet
+* `app.py`: Python filen for nettstedet
+* `templates/main.html`: html for nettstedets hovedside
+* `static/style.css`: css for nettstedet
 
 ## Tilpasning
 
