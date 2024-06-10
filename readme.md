@@ -26,6 +26,6 @@ For å endre font formatet, må du redigere `style.css`-filen og endre verdien a
 
 ## Endre hvor knappen videre sender deg
 
-For å endre hvor knappen videre sender deg, må du redigere `main.html`-filen og endre verdien av `href`-attributten for `<a>`-elementet. For eksempel, hvis du vil at knappen skal sende deg til `https://www.example.com`, kan du endre verdien til `https://www.example.com`.
+For å endre hvor knappen videre sender deg, må du redigere `main.html`-filen og endre verdien av `href`-attributten for `<a>`-elementet. For eksempel, hvis du vil at knappen skal sende deg til `https://www.example.com`, kan du endre verdien til for eksempem `https://www.google.com`.
 
 Jeg håper dette hjelper!
