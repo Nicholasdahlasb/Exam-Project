@@ -1,0 +1,3 @@
+.gitignore
+.venv/
+echo ".venv/" >>.gitignore
